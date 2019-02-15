@@ -1,0 +1,9 @@
+embeddings {
+  tensor_name: "embedding:0"
+  metadata_path: "E:/Jupyter Notebook work/\346\267\261\345\272\246\345\255\246\344\271\240\346\241\206\346\236\266tensorflow\345\272\224\347\224\250/\347\254\2546\345\221\250/projector/projector/metadata.tsv"
+  sprite {
+    image_path: "E:/Jupyter Notebook work/\346\267\261\345\272\246\345\255\246\344\271\240\346\241\206\346\236\266tensorflow\345\272\224\347\224\250/\347\254\2546\345\221\250/projector/data/mnist_10k_sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+}
